@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Car.Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="itemtext">some item</string>
+    <string name="ServiceWorkTitle">Работа по машинке</string>
+    <string name="testClick">SW Item Click</string>
+    <string name="title_activity_service_work">ServiceWorkActivity</string>
+
+</resources>
