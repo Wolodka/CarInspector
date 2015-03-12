@@ -31,7 +31,7 @@ public class ServiceWork
 	@Override
 	public String toString()
 	{
-		return _id + " " + _name;
+		return "ID: " + _id + "; Name: " + _name;
 	}
 
 }
